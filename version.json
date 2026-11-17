@@ -2,7 +2,7 @@
 {
   "versionCode": 1,
   "versionName": "1.0",
-  "apkUrl": "https://raw.githubusercontent.com/anwfl4165-blip/status-saver-download/main/app-release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/anwfl4165-blip/status-saver-download/main/app-debug.apk",
   "message": "يتوفر الإصدار الجديد من تطبيق Status Pocket.",
   "releaseNotes": "تحديث التطبيق وتحسين الإعلانات والاستقرار."
 }
